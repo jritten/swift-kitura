@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/master.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/Socket.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/Socket.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/Socket.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/Socket.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/SocketProtocols.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketProtocols.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/SocketUtils.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketUtils.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/Socket.build/SocketUtils.swiftdeps"
+  }
+}

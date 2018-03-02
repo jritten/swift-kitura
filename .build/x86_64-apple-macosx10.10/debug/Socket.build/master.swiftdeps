@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "775d3f23df80e016babba29b115e7aae"
+build_time: [1519168888, 323453000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/Socket.swift": [1519168879, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/SocketProtocols.swift": [1519168879, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/SocketUtils.swift": [1519168879, 0]

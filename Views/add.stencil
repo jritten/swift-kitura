@@ -1,0 +1,30 @@
+<div class="menu-container">
+    <h2>Add New Acronym</h2>
+</div>
+<div class="menu-add">
+    <label>Acronym</label>
+    <input id="shortField" class="acronym-field" name="short" placeholder="e.g. BRB" />
+    <label>Long Form</label>
+<input id="longField" class="acronym-field" name="long" placeholder="e.g. Be Right Back" />
+<input class="button-primary" type="submit" value="Save Acronym" onClick="submitForm()" />
+</div>
+
+<script type="text/javascript">
+    function submitForm() {
+        var short = document.getElementById("shortField").value;
+        var long = document.getElementById("longField").value;
+        if (long == "" || short == "") {
+            alert("Both fields must contain text!")
+            return
+        }
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "/acronyms");
+        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState == XMLHttpRequest.DONE) {
+                location.reload();
+            }
+        }
+        xhr.send(JSON.stringify({ "short": short, "long": long }));
+    }
+</script>

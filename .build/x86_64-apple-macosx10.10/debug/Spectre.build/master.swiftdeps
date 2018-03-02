@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "c7949b311091e6436d3260a031ce8949"
+build_time: [1519168886, 620579000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Case.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Context.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Expectation.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Failure.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Global.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/GlobalContext.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Reporter.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Spectre.git--7655155069707042687/Sources/Reporters.swift": [1519168882, 0]

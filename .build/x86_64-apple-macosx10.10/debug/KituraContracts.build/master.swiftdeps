@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "13639218b6b82fc9d9f44b18c73d82e4"
+build_time: [1519168888, 982421000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/ClousureAliases.swift": [1519168881, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/CodableQuery/Coder.swift": [1519168881, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/CodableQuery/Extensions.swift": [1519168881, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/CodableQuery/QueryDecoder.swift": [1519168881, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/CodableQuery/QueryEncoder.swift": [1519168881, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/Contracts.swift": [1519168881, 0]

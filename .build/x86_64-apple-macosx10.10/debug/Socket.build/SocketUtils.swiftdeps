@@ -1,0 +1,258 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "__fd_set_count"
+provides-nominal:
+provides-member:
+- ["6SocketAAC7AddressO", ""]
+- ["SC6fd_setV", ""]
+- ["6SocketAAC7AddressO", "withSockAddrPointer"]
+- ["6SocketAAC7AddressO", "init"]
+- ["SC6fd_setV", "withCArrayAccess"]
+- ["SC6fd_setV", "zero"]
+- ["SC6fd_setV", "set"]
+- ["SC6fd_setV", "clear"]
+- ["SC6fd_setV", "isSet"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "%"
+- !private "&"
+- !private "&="
+- "/"
+- !private "<<"
+- !private "AF_INET"
+- !private "AF_INET6"
+- !private "AF_UNIX"
+- "AssignmentPrecedence"
+- "Bool"
+- "FloatLiteralType"
+- "Int"
+- "Int32"
+- "IntegerLiteralType"
+- !private "MemoryLayout"
+- "Socket"
+- "UnsafeMutablePointer"
+- !private "UnsafeMutableRawPointer"
+- "UnsafePointer"
+- "Void"
+- "__DARWIN_FD_SETSIZE"
+- "__fd_set_count"
+- "fd_set"
+- "sockaddr"
+- !private "sockaddr_in"
+- !private "sockaddr_in6"
+- !private "sockaddr_storage"
+- !private "sockaddr_un"
+- "socklen_t"
+- !private "withUnsafeMutablePointer"
+- !private "withUnsafePointer"
+- !private "|="
+- !private "~"
+- !private "~="
+depends-member:
+- !private ["6SocketAAC7AddressO", "AF_INET"]
+- !private ["6SocketAAC7AddressO", "AF_INET6"]
+- !private ["6SocketAAC7AddressO", "AF_UNIX"]
+- !private ["6SocketAAC7AddressO", "Int32"]
+- !private ["6SocketAAC7AddressO", "MemoryLayout"]
+- !private ["6SocketAAC7AddressO", "Socket"]
+- ["6SocketAAC7AddressO", "UnsafeMutablePointer"]
+- ["6SocketAAC7AddressO", "UnsafePointer"]
+- ["6SocketAAC7AddressO", "Void"]
+- ["6SocketAAC7AddressO", "init"]
+- ["6SocketAAC7AddressO", "ipv4"]
+- ["6SocketAAC7AddressO", "ipv6"]
+- ["6SocketAAC7AddressO", "sockaddr"]
+- !private ["6SocketAAC7AddressO", "sockaddr_in"]
+- !private ["6SocketAAC7AddressO", "sockaddr_in6"]
+- !private ["6SocketAAC7AddressO", "sockaddr_storage"]
+- !private ["6SocketAAC7AddressO", "sockaddr_un"]
+- ["6SocketAAC7AddressO", "socklen_t"]
+- ["6SocketAAC7AddressO", "unix"]
+- ["6SocketAAC7AddressO", "withSockAddrPointer"]
+- !private ["6SocketAAC7AddressO", "withUnsafeMutablePointer"]
+- !private ["6SocketAAC7AddressO", "withUnsafePointer"]
+- ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initialize"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "withMemoryRebound"]
+- !private ["s10ComparableP", "assumingMemoryBound"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "initialize"]
+- !private ["s10ComparableP", "pointee"]
+- !private ["s10ComparableP", "subscript"]
+- !private ["s10ComparableP", "withMemoryRebound"]
+- !private ["s28CustomDebugStringConvertibleP", "assumingMemoryBound"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initialize"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "withMemoryRebound"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "assumingMemoryBound"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "initialize"]
+- !private ["s29CustomPlaygroundQuickLookableP", "pointee"]
+- !private ["s29CustomPlaygroundQuickLookableP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "withMemoryRebound"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "assumingMemoryBound"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "initialize"]
+- !private ["s17CustomReflectableP", "pointee"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "withMemoryRebound"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "assumingMemoryBound"]
+- ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "assumingMemoryBound"]
+- ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "assumingMemoryBound"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "initialize"]
+- !private ["s9EquatableP", "pointee"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "withMemoryRebound"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "assumingMemoryBound"]
+- ["s17FixedWidthIntegerP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "assumingMemoryBound"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "initialize"]
+- !private ["s8HashableP", "pointee"]
+- !private ["s8HashableP", "subscript"]
+- !private ["s8HashableP", "withMemoryRebound"]
+- ["Si", "init"]
+- !private ["s5Int32V", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s12MemoryLayoutO", "size"]
+- ["s10MirrorPathP", "init"]
+- ["s7NumericP", "init"]
+- !private ["Sq", "assumingMemoryBound"]
+- ["s13SignedIntegerP", "init"]
+- ["s13SignedNumericP", "init"]
+- ["6SocketAAC", "Address"]
+- !private ["6Socket0A6ReaderP", "Address"]
+- !private ["6Socket0A6WriterP", "Address"]
+- !private ["s10StrideableP", "assumingMemoryBound"]
+- ["s10StrideableP", "init"]
+- !private ["s10StrideableP", "initialize"]
+- !private ["s10StrideableP", "pointee"]
+- !private ["s10StrideableP", "subscript"]
+- !private ["s10StrideableP", "withMemoryRebound"]
+- !private ["s6UInt32V", "init"]
+- !private ["Sp", "initialize"]
+- !private ["Sp", "subscript"]
+- !private ["Sp", "withMemoryRebound"]
+- !private ["Sv", "assumingMemoryBound"]
+- !private ["Sv", "init"]
+- !private ["SP", "pointee"]
+- !private ["SP", "withMemoryRebound"]
+- !private ["s15UnsignedIntegerP", "init"]
+- ["s18_BitwiseOperationsP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "assumingMemoryBound"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s8_PointerP", "assumingMemoryBound"]
+- !private ["s8_PointerP", "init"]
+- !private ["s8_PointerP", "initialize"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["s8_PointerP", "subscript"]
+- !private ["s8_PointerP", "withMemoryRebound"]
+- !private ["s11_StrideableP", "assumingMemoryBound"]
+- ["s11_StrideableP", "init"]
+- !private ["s11_StrideableP", "initialize"]
+- !private ["s11_StrideableP", "pointee"]
+- !private ["s11_StrideableP", "subscript"]
+- !private ["s11_StrideableP", "withMemoryRebound"]
+- ["SC6fd_setV", "Bool"]
+- !private ["SC6fd_setV", "Int"]
+- ["SC6fd_setV", "Int32"]
+- ["SC6fd_setV", "UnsafeMutablePointer"]
+- !private ["SC6fd_setV", "UnsafeMutableRawPointer"]
+- !private ["SC6fd_setV", "__fd_set_count"]
+- !private ["SC6fd_setV", "address"]
+- ["SC6fd_setV", "clear"]
+- !private ["SC6fd_setV", "fd_set"]
+- !private ["SC6fd_setV", "fds_bits"]
+- ["SC6fd_setV", "isSet"]
+- ["SC6fd_setV", "set"]
+- ["SC6fd_setV", "withCArrayAccess"]
+- !private ["SC6fd_setV", "withUnsafeMutablePointer"]
+- ["SC6fd_setV", "zero"]
+- !private ["SC16sockaddr_storageV", "init"]
+- !private ["SC16sockaddr_storageV", "ss_family"]
+depends-nominal:
+- "6SocketAAC7AddressO"
+- "s13BinaryIntegerP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s17FixedWidthIntegerP"
+- "s8HashableP"
+- "Si"
+- !private "s5Int32V"
+- "s25LosslessStringConvertibleP"
+- !private "s12MemoryLayoutO"
+- "s10MirrorPathP"
+- "s7NumericP"
+- !private "Sq"
+- "s13SignedIntegerP"
+- "s13SignedNumericP"
+- "6SocketAAC"
+- !private "6Socket0A6ReaderP"
+- !private "6Socket0A6WriterP"
+- "s10StrideableP"
+- !private "s6UInt32V"
+- !private "Sp"
+- !private "Sv"
+- !private "SP"
+- !private "s15UnsignedIntegerP"
+- "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- "s11_StrideableP"
+- "SC6fd_setV"
+- !private "SC16sockaddr_storageV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "08ffe495ba7a5938a582ff62a9036467"

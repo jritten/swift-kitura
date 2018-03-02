@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "788607cbc0dfd3a85d89c8b839f4cdb4"
+build_time: [1519168899, 226240000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/BlueSSLService.git--6577639804771281610/Sources/SSLService/SSLService.swift": [1519168881, 0]

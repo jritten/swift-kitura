@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "99982c07d1455c5b98219b033af62c80"
+build_time: [1519168917, 212742000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-StencilTemplateEngine.git--2176492381134715142/Sources/KituraStencil/KituraStencilTemplateEngine.swift": [1519168878, 0]

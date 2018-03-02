@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "4ae061521217c18fbde1ce21d7283e3f"
+build_time: [1519168888, 863177000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-TemplateEngine.git--5059963620657797085/Sources/KituraTemplateEngine/TemplateEngine.swift": [1519168877, 0]

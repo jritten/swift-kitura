@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.build/master.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/LoggerAPI.git--6449715459278086880/Sources/LoggerAPI/Logger.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.build/Logger.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.build/Logger.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/LoggerAPI.build/Logger.swiftdeps"
+  }
+}

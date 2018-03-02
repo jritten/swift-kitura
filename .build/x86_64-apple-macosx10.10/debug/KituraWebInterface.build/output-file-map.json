@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/master.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Application/Application.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application/Application.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Application/main.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/main.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Application/main.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/main.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Models/Acronym.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Acronym.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Models/Acronym.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Acronym~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Acronym.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Models/AcronymPersistence.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymPersistence.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Models/AcronymPersistence.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymPersistence.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Routes/AcronymRoutes.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymRoutes.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Routes/AcronymRoutes.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/AcronymRoutes.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Routes/ClientRoutes.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/ClientRoutes.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/Routes/ClientRoutes.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/ClientRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/KituraWebInterface.build/ClientRoutes.swiftdeps"
+  }
+}

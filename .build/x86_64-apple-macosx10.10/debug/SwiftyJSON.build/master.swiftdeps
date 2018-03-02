@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "e7e095d2a3d2b8f00b4f67389634d75e"
+build_time: [1519168886, 620270000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/SwiftyJSON.git--6955445084174387031/Sources/SwiftyJSON/LclJSONSerialization.swift": [1519168883, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/SwiftyJSON.git--6955445084174387031/Sources/SwiftyJSON/SwiftyJSON.swift": [1519168883, 0]

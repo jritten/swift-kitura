@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "b150ee0ba18fcdf6bc626c946a60b0b3"
+build_time: [1519168917, 559789000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/ConnectionProperties.swift": [1519168877, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/CouchDBClient.swift": [1519168877, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/CouchDBUtils.swift": [1519168877, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/Database.swift": [1519168877, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/UsersDatabase.swift": [1519168877, 0]

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/master.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/HeliumLogger.git-2106793442615829935/Sources/HeliumLogger/HeliumLogger.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumLogger.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/HeliumLogger.git-2106793442615829935/Sources/HeliumLogger/HeliumStreamLogger.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/HeliumLogger.build/HeliumStreamLogger.swiftdeps"
+  }
+}

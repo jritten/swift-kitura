@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "5c5833961b6145dd126fe8de2823e277"
+build_time: [1519168888, 323872000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/LoggerAPI.git--6449715459278086880/Sources/LoggerAPI/Logger.swift": [1519168880, 0]

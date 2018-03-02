@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "ffcae28944e7f29c2b6ac64b9f44c8cc"
+build_time: [1519168897, 485974000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/PathKit.git--1865447967743163058/Sources/PathKit.swift": [1519168881, 0]

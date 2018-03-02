@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "98b03b4694bc10c74b17b84c10aea2c0"
+build_time: [1519168931, 769808000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Application/Application.swift": [1517909337, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Application/main.swift": [1517908928, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Models/Acronym.swift": [1517909337, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Models/AcronymPersistence.swift": [1517909337, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Routes/AcronymRoutes.swift": [1517909337, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/Sources/KituraWebInterface/Routes/ClientRoutes.swift": [1519148986, 0]

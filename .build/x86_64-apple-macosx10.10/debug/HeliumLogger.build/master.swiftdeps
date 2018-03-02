@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "143b0b318f4e6e83247669687b7ffe1a"
+build_time: [1519168896, 858395000]
+inputs:
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/HeliumLogger.git-2106793442615829935/Sources/HeliumLogger/HeliumLogger.swift": [1519168882, 0]
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/HeliumLogger.git-2106793442615829935/Sources/HeliumLogger/HeliumStreamLogger.swift": [1519168882, 0]

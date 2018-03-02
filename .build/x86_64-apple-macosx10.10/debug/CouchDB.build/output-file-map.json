@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/master.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/ConnectionProperties.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/ConnectionProperties.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/ConnectionProperties.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/ConnectionProperties~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/ConnectionProperties.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/CouchDBClient.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBClient.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBClient.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBClient.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/CouchDBUtils.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBUtils.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBUtils.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/CouchDBUtils.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/Database.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/Database.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/Database.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/Database.swiftdeps"
+  },
+  "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/checkouts/Kitura-CouchDB.git--5564966604146993984/Sources/CouchDB/UsersDatabase.swift": {
+    "dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/UsersDatabase.d",
+    "object": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/UsersDatabase.swift.o",
+    "swiftmodule": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/UsersDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/jritten/IBM_Index/Swift/KituraWebInterface/.build/x86_64-apple-macosx10.10/debug/CouchDB.build/UsersDatabase.swiftdeps"
+  }
+}
